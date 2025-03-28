@@ -9,7 +9,7 @@ const projects = [
     {
       img: project1,
       title: "Seket",
-      description: "Exam platform that lets students prepared for entrance and exit exams. I participated as both Frontend and backend developer. (Express js and React).",
+      description: "Exam platform that lets students prepared for entrance and exit exams. I participated as both Frontend and backend developer at kuraz tech. (Express js and React).",
       links: {
         site: "https://exam.kuraztech.com",
         github: "#",

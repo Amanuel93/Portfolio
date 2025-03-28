@@ -37,7 +37,7 @@ const Contact = () => {
 
             </div>
 
-            <form
+            {/* <form
                 action="https://getform.io/f/placeYourEndpointHere"
                 method="POST"
                 className=" max-w-6xl p-5 md:p-12"
@@ -75,7 +75,7 @@ const Contact = () => {
               Send Message
             </button>
             
-          </form>
+          </form> */}
 
         </div>
         
